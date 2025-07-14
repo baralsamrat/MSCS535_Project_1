@@ -2,3 +2,5 @@ Flask
 psycopg2-binary
 python-dotenv
 cryptography
+requests
+concurrent.futures
